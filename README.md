@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Some</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate frontend developer from USA</h3>
 
 - 🔭 I’m currently working on Programmer [Programmer](https://fs4n.github.io/SoundSemo/SoundSome.html)
 
-<h3 align="left">Connect with me:</h3>
+<h3 align="left">fs4n:</h3>
 <p align="left">
 </p>
 
